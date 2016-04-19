@@ -1,6 +1,6 @@
 # SE
 
-  # Pour TD1: 
+  #Pour TD1: 
   
       Exigence du laboratoire était de créer un compte GitHub, une liste d'étudiants en plus d'une liste des projets de mini.
       
